@@ -1,0 +1,20 @@
+body {
+    background-color: #fbfbfd;
+}
+#headerContainer {
+    margin-top: 20em;
+    margin-bottom: 20em;
+}
+#frontHeader {
+    color: black;
+    text-align: center;
+    font-family: 'Abhaya Libre', serif;
+    font-weight: 600;
+    font-size: 5em;
+}
+.img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: bottom;
+}
